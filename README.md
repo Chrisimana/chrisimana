@@ -54,10 +54,10 @@ Seorang mahasiswa Jurusan Informatika di **Institut Teknologi Kalimantan** yang 
 
 ## Kontak
 
-- Portofolio — [chrisimana.pages.dev](https://chrisimana.pages.dev/id) ([English](https://chrisimana.pages.dev/en))
-- LinkedIn — [Christian Imanuel Admojo](https://www.linkedin.com/in/christian-imanuel-admojo-a78102324/)
-- Instagram — [@chrisimana](https://www.instagram.com/chrisimana/)
-- Email — [christianimanueladmojo@gmail.com](mailto:christianimanueladmojo@gmail.com)
+- Portofolio: [chrisimana.pages.dev](https://chrisimana.pages.dev/id) ([English](https://chrisimana.pages.dev/en))
+- LinkedIn: [Christian Imanuel Admojo](https://www.linkedin.com/in/christian-imanuel-admojo-a78102324/)
+- Instagram: [@chrisimana](https://www.instagram.com/chrisimana/)
+- Email: [christianimanueladmojo@gmail.com](mailto:christianimanueladmojo@gmail.com)
 
 <p align="center"><i>Terima kasih sudah mampir. Mari berkolaborasi!</i></p>
 
