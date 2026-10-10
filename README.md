@@ -1,4 +1,4 @@
-<h1 align="center">Halo semua, saya Christian Imanuel Admojo</h1>
+# Christian Imanuel Admojo
 
 ## Tentang Saya
 
