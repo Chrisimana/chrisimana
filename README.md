@@ -1,16 +1,9 @@
 <h1 align="center">Halo semua, saya Christian Imanuel Admojo</h1>
 
-<p align="center">
-  <a href="https://chrisimana.pages.dev/id">chrisimana.pages.dev</a>
-</p>
-
----
-
 ## Tentang Saya
 
 Seorang mahasiswa Jurusan Informatika di **Institut Teknologi Kalimantan** yang adaptif dan komunikatif, dengan fokus pada pengembangan teknologi inovatif yang memberikan dampak positif bagi masyarakat. Saya memadukan keahlian teknis dan kemampuan analitis dengan soft skill yang kuat dalam kerja sama tim serta penulisan yang efektif. Berbekal pengalaman dalam peran kepengurusan dan manajemen proyek, saya berkomitmen untuk terus belajar, meningkatkan kompetensi, dan memberikan kontribusi nyata bagi industri melalui pemikiran kritis dan kolaborasi.
 
----
 
 ## Tech Stack
 
@@ -44,13 +37,11 @@ Seorang mahasiswa Jurusan Informatika di **Institut Teknologi Kalimantan** yang 
 
 <sub>Icons by <a href="https://github.com/tandpfun/skill-icons">skill-icons</a></sub>
 
----
 
 ## Kontak
 
-- Portofolio: [chrisimana.pages.dev](https://chrisimana.pages.dev/id) ([English](https://chrisimana.pages.dev/en))
+- Website Pribadi: [chrisimana.pages.dev](https://chrisimana.pages.dev/id) ([English](https://chrisimana.pages.dev/en))
 - LinkedIn: [Christian Imanuel Admojo](https://www.linkedin.com/in/christian-imanuel-admojo-a78102324/)
-- Instagram: [@chrisimana](https://www.instagram.com/chrisimana/)
 - Email: [christianimanueladmojo@gmail.com](mailto:christianimanueladmojo@gmail.com)
 
 <p align="center"><i>Terima kasih sudah mampir. Mari berkolaborasi!</i></p>
