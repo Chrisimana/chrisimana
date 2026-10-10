@@ -1,8 +1,25 @@
-# Christian Imanuel Admojo
+<h1 align="center">Hi, saya Christian Imanuel Admojo 👋</h1>
+
+<p align="center">
+  <b>Front-End Developer · Data Scientist · UI/UX Designer</b>
+</p>
+
+<p align="center">
+  Mahasiswa Informatika yang suka membangun teknologi yang memberi dampak positif bagi masyarakat.
+</p>
+
+---
 
 ## Tentang Saya
 
-Seorang mahasiswa Jurusan Informatika di **Institut Teknologi Kalimantan** yang adaptif dan komunikatif, dengan fokus pada pengembangan teknologi inovatif yang memberikan dampak positif bagi masyarakat. Saya memadukan keahlian teknis dan kemampuan analitis dengan soft skill yang kuat dalam kerja sama tim serta penulisan yang efektif. Berbekal pengalaman dalam peran kepengurusan dan manajemen proyek, saya berkomitmen untuk terus belajar, meningkatkan kompetensi, dan memberikan kontribusi nyata bagi industri melalui pemikiran kritis dan kolaborasi.
+- 🎓 Mahasiswa Informatika di **Institut Teknologi Kalimantan**
+- 🔭 Fokus saat ini: **Pengembangan Web**
+- 📊 Tertarik pada analisis data, machine learning, dan deep learning
+- 🎨 Merancang antarmuka dan pengalaman pengguna di Figma
+- 🤝 Berpengalaman dalam kepengurusan dan manajemen proyek, serta terbiasa bekerja dalam tim
+- 🌐 Web Pribadi: [chrisimana.pages.dev](https://chrisimana.pages.dev/id)
+
+---
 
 ## Tech Stack
 
@@ -57,13 +74,18 @@ Seorang mahasiswa Jurusan Informatika di **Institut Teknologi Kalimantan** yang 
 **Machine Learning**
 
 <p>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
   <img src="https://img.shields.io/badge/XGBoost-189FDD?style=flat-square" alt="XGBoost" />
   <img src="https://img.shields.io/badge/imbalanced--learn-3B7EA1?style=flat-square" alt="imbalanced-learn" />
   <img src="https://img.shields.io/badge/AutoGluon-FF6B6B?style=flat-square" alt="AutoGluon" />
   <img src="https://img.shields.io/badge/FLAML-0078D4?style=flat-square" alt="FLAML" />
+</p>
+
+**Deep Learning**
+
+<p>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
+  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras" />
 </p>
 
 **Testing**
@@ -98,13 +120,17 @@ Seorang mahasiswa Jurusan Informatika di **Institut Teknologi Kalimantan** yang 
   <img src="https://img.shields.io/badge/Cloudflare%20Pages-F38020?style=flat-square&logo=cloudflarepages&logoColor=white" alt="Cloudflare Pages" />
 </p>
 
-## Kontak
+---
 
-- Website Pribadi: [chrisimana.pages.dev](https://chrisimana.pages.dev/id) ([English](https://chrisimana.pages.dev/en))
-- LinkedIn: [Christian Imanuel Admojo](https://www.linkedin.com/in/christian-imanuel-admojo-a78102324/)
-- Email: [christianimanueladmojo@gmail.com](mailto:christianimanueladmojo@gmail.com)
+## Hubungi Saya
 
-<p align="center"><i>Terima kasih sudah mampir. Mari berkolaborasi!</i></p>
+<p>
+  <a href="https://chrisimana.pages.dev/id"><img src="https://img.shields.io/badge/Website-chrisimana.pages.dev-F38020?style=flat-square&logo=cloudflarepages&logoColor=white" alt="Website" /></a>
+  <a href="https://www.linkedin.com/in/christian-imanuel-admojo-a78102324/"><img src="https://img.shields.io/badge/LinkedIn-Christian%20Imanuel%20Admojo-0A66C2?style=flat-square" alt="LinkedIn" /></a>
+  <a href="mailto:christianimanueladmojo@gmail.com"><img src="https://img.shields.io/badge/Email-christianimanueladmojo%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+*Terima kasih sudah mampir. Mari berkolaborasi!*
 
 <!--
 **Chrisimana/chrisimana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
