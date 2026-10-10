@@ -47,7 +47,7 @@ Seorang mahasiswa Jurusan Informatika di **Institut Teknologi Kalimantan** yang 
 ---
 
 ## Kontak
-<sub>Icons by <a href="https://github.com/tandpfun/skill-icons">skill-icons</a></sub>
+
 - Portofolio: [chrisimana.pages.dev](https://chrisimana.pages.dev/id) ([English](https://chrisimana.pages.dev/en))
 - LinkedIn: [Christian Imanuel Admojo](https://www.linkedin.com/in/christian-imanuel-admojo-a78102324/)
 - Instagram: [@chrisimana](https://www.instagram.com/chrisimana/)
