@@ -1,7 +1,7 @@
 <h1 align="center">Hi, saya Christian Imanuel Admojo 👋</h1>
 
 <p align="center">
-  <b>Front-End Developer · Data Scientist · UI/UX Designer</b>
+  <b>Front-End Developer · Data Scientist · UI/UX Developer</b>
 </p>
 
 <p align="center">
